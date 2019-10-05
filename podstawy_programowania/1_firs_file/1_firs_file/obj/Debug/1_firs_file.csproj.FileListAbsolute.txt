@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git_w11\podstawy_programowania\1_firs_file\1_firs_file\bin\Debug\1_firs_file.exe.config
+C:\xampp\htdocs\git_w11\podstawy_programowania\1_firs_file\1_firs_file\bin\Debug\1_firs_file.exe
+C:\xampp\htdocs\git_w11\podstawy_programowania\1_firs_file\1_firs_file\bin\Debug\1_firs_file.pdb
+C:\xampp\htdocs\git_w11\podstawy_programowania\1_firs_file\1_firs_file\obj\Debug\1_firs_file.csprojAssemblyReference.cache
+C:\xampp\htdocs\git_w11\podstawy_programowania\1_firs_file\1_firs_file\obj\Debug\1_firs_file.exe
+C:\xampp\htdocs\git_w11\podstawy_programowania\1_firs_file\1_firs_file\obj\Debug\1_firs_file.pdb
